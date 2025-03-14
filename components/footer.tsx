@@ -10,13 +10,13 @@ export function Footer() {
           </p>
         </div>
         <div className="flex gap-4 text-sm">
-          <Link href="/about-us" className="hover:underline">
+          <Link href="/about" className="hover:underline">
             About Us
           </Link>
           <Link href="/terms" className="hover:underline">
             Terms and Conditions
           </Link>
-          <Link href="/privacy-policy" className="hover:underline">
+          <Link href="/policy" className="hover:underline">
             Privacy Policy
           </Link>
         </div>
