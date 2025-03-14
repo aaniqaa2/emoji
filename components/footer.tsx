@@ -7,11 +7,23 @@ export function Footer() {
         <div className="flex flex-col items-center gap-4 px-8 md:flex-row md:gap-2 md:px-0">
           <p className="text-center text-sm leading-loose md:text-left">
             © 2025 EmojiExplorer. All rights reserved.
-            .
           </p>
+        </div>
+        <div className="flex gap-4 text-sm">
+          <Link href="/about-us" className="hover:underline">
+            About Us
+          </Link>
+          <Link href="/terms" className="hover:underline">
+            Terms and Conditions
+          </Link>
+          <Link href="/privacy-policy" className="hover:underline">
+            Privacy Policy
+          </Link>
+          <Link href="/contact" className="hover:underline">
+            Contact Us
+          </Link>
         </div>
       </div>
     </footer>
   )
 }
-
