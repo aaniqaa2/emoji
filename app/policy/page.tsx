@@ -29,7 +29,7 @@ export default function PrivacyPolicy() {
         <h2 className="text-2xl font-bold mt-8 mb-4">How We Use Your Information</h2>
         <h3 className="text-xl font-bold mt-6 mb-2">Provide and Improve Services:</h3>
         <p>
-          We use your information to operate <strong>Emojiexplorer.xyz</strong>, analyze usage trends, and make improvements to the Site.
+          We use your information to operate <strong>Emojiexplorer.site</strong>, analyze usage trends, and make improvements to the Site.
         </p>
         
         <h3 className="text-xl font-bold mt-6 mb-2">Limited Sharing:</h3>
@@ -55,7 +55,7 @@ export default function PrivacyPolicy() {
         
         <h2 className="text-2xl font-bold mt-8 mb-4">Children's Privacy</h2>
         <p>
-          Emojiexplorer.xyz is not intended for children under 13. We do not knowingly collect personal information from children under 13.
+          Emojiexplorer.site is not intended for children under 13. We do not knowingly collect personal information from children under 13.
         </p>
         
         <h2 className="text-2xl font-bold mt-8 mb-4">Changes to This Policy</h2>
