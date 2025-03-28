@@ -5,14 +5,14 @@ export default function PrivacyPolicy() {
   return (
     <div className="container mx-auto px-4 py-8 max-w-3xl">
       <Head>
-        <title>Privacy Policy - EmojiExplorer.xyz</title>
+        <title>Privacy Policy - EmojiExplorer.site </title>
         <meta name="description" content="Privacy Policy for EmojiExplorer.xyz" />
       </Head>
 
       <main className="prose prose-lg">
-        <h1 className="text-3xl font-bold mb-6">EmojiExplorer.xyz Privacy Policy</h1>
+        <h1 className="text-3xl font-bold mb-6">EmojiExplorer.site Privacy Policy</h1>
         <p>
-          Emojicopy.net values the privacy of its users. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your personal data.
+          Emojiexplorer.site values the privacy of its users. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your personal data.
         </p>
         
         <h2 className="text-2xl font-bold mt-8 mb-4">Information We Collect</h2>
@@ -65,7 +65,7 @@ export default function PrivacyPolicy() {
         
         <h2 className="text-2xl font-bold mt-8 mb-4">Contact Us</h2>
         <p>
-          If you have any questions regarding this Privacy Policy, please contact us at <a href="mailto:support@emojiexplorer.xyz">support@emojiexplorer.xyz</a>.
+          If you have any questions regarding this Privacy Policy, please contact us at <a href="mailto:support@emojiexplorer.site">support@emojiexplorer.site</a>.
         </p>
       </main>
     </div>
