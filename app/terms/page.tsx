@@ -29,7 +29,7 @@ export default function TermsAndConditions() {
         
         <h2 className="text-2xl font-bold mt-8 mb-4">License</h2>
         <p>
-          Unless otherwise stated, Emojiexplorer.site and/or its licensors own the intellectual property rights for all material on Emojiexplorer.site. All intellectual property rights are reserved. You may access this from Emojiexplorer.xyz for your own personal use subjected to restrictions set in these terms and conditions.
+          Unless otherwise stated, Emojiexplorer.site and/or its licensors own the intellectual property rights for all material on Emojiexplorer.site. All intellectual property rights are reserved. You may access this from Emojiexplorer.site for your own personal use subjected to restrictions set in these terms and conditions.
         </p>
         
         <h2 className="text-2xl font-bold mt-8 mb-4">Services</h2>
@@ -42,12 +42,12 @@ export default function TermsAndConditions() {
         <h2 className="text-2xl font-bold mt-8 mb-4">Intellectual Property</h2>
         <h3 className="text-xl font-bold mt-6 mb-2">Emoji Ownership:</h3>
         <p>
-          The individual emojis displayed on Emojiexplorer.site are the intellectual property of their respective creators or trademark holders. Emojiexplorer.xyz does not claim ownership of these emojis.
+          The individual emojis displayed on Emojiexplorer.site are the intellectual property of their respective creators or trademark holders. Emojiexplorer.site does not claim ownership of these emojis.
         </p>
         
         <h3 className="text-xl font-bold mt-6 mb-2">Site Content:</h3>
         <p>
-          All content on the Site, aside from individual emojis, including text, graphics, logos, code, and software, is the property of Emojiexplorer.xyz or its licensors and is protected by copyright and trademark laws.
+          All content on the Site, aside from individual emojis, including text, graphics, logos, code, and software, is the property of Emojiexplorer.site or its licensors and is protected by copyright and trademark laws.
         </p>
         
         <h2 className="text-2xl font-bold mt-8 mb-4">User Conduct</h2>
@@ -71,7 +71,7 @@ export default function TermsAndConditions() {
         
         <h2 className="text-2xl font-bold mt-8 mb-4">Governing Law and Jurisdiction</h2>
         <p>
-          These Terms shall be governed by and construed under the laws of the State of Gujarat, India. Any disputes shall be resolved exclusively in the courts located within Ahmedabad, Gujarat.
+          These Terms shall be governed by and construed under the laws of the State of Punjab, Pakistan. Any disputes shall be resolved exclusively in the courts located within Islamabad, Punjab.
         </p>
         
         <h2 className="text-2xl font-bold mt-8 mb-4">Contact Information</h2>
