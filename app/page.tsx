@@ -25,6 +25,7 @@ export default function HomePage() {
           Discover, search, and copy your favorite emojis with ease! Copy individual emojis or select multiple emojis to copy them all at once.
         </p>
         <EmojiList />
+        <meta name="google-site-verification" content="jG5eJwFWgz7OAHJkxLgi7CAqrXHEvfCpY0A3LlShwGI" />
       </div>
     </>
   )
