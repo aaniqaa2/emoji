@@ -25,16 +25,6 @@ export const metadata = generateMetadata({
   ],
 })
 
-import { Metadata } from 'next';
-
-export const metadata: Metadata = {
-  title: 'Your Default Title',
-  description: 'Your default description',
-  verification: {
-    google: '<meta name="google-site-verification" content="jG5eJwFWgz7OAHJkxLgi7CAqrXHEvfCpY0A3LlShwGI" />',
-  },
-  // Other metadata
-};
 export default function RootLayout({
   children,
 }: {
