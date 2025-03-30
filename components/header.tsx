@@ -82,7 +82,6 @@ export function Header() {
           </nav>
         </div>
       )}
-      <meta name="google-site-verification" content="jG5eJwFWgz7OAHJkxLgi7CAqrXHEvfCpY0A3LlShwGI" />
     </header>
   )
 }
