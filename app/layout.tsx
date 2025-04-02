@@ -33,6 +33,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        <meta name="google-site-verification" content="jG5eJwFWgz7OAHJkxLgi7CAqrXHEvfCpY0A3LlShwGI" />
         <JsonLd data={websiteSchema} />
       </head>
       <body className={inter.className}>
@@ -48,4 +49,3 @@ export default function RootLayout({
     </html>
   )
 }
-
