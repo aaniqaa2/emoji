@@ -35,6 +35,30 @@ export default function RootLayout({
       <head>
         <JsonLd data={websiteSchema} />
       </head>
+      import type React from "react"
+import type { Metadata } from "next"
+import "./globals.css"
+
+export const metadata: Metadata = {
+  title: "My Website",
+  description: "My Next.js TypeScript Website",
+  // Add the verification meta tag here
+  verification: {
+    google: "<meta name="google-site-verification" content="jG5eJwFWgz7OAHJkxLgi7CAqrXHEvfCpY0A3LlShwGI" />",
+  },
+}
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
+  return (
+    <html lang="en">
+      <body>{children}</body>
+    </html>
+  )
+}
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <div className="flex min-h-screen flex-col">
