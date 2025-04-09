@@ -35,6 +35,7 @@ export default function RootLayout({
       <head>
         <meta name="google-site-verification" content="jG5eJwFWgz7OAHJkxLgi7CAqrXHEvfCpY0A3LlShwGI" />
         <meta name="google-adsense-account" content="ca-pub-7604785055648360">
+          
         <JsonLd data={websiteSchema} />
       </head>
       <body className={inter.className}>
